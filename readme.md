@@ -1,13 +1,13 @@
 
 ---
 
-# Ping Pong Game with Python and Turtle - 100 days of python
+# Ping-Pong Game with Python and Turtle - 100 days of python
 
-This is a classic Ping Pong game implemented using Python and Turtle graphics.
+This is a classic Ping-Pong game implemented using Python and Turtle graphics.
 
 ## Overview
 
-The Ping Pong game consists of the following files:
+The Ping-Pong game consists of the following files:
 
 - `main.py`: Main script to run the game.
 - `paddle.py`: Defines the Paddle class and its functionalities.
